@@ -71,12 +71,12 @@ Production-grade Terraform stack deploying a containerized Node.js REST API on A
 
 Full-stack expense tracker combining a NestJS API and React frontend, fully containerized for AWS ECS Fargate. Tracks and visualizes spending with DTO validation and clean API architecture.
 
-#### 🤖 price-drop-bot
+#### 🤖 [price-drop-bot](https://github.com/Danielh002/price-drop-bot)
 
 Automated monitoring bot that tracks online product prices and sends Telegram alerts when discounts occur.
 Built with Node.js, TypeScript, and SQLite, integrating web scraping, cron-based scheduling, and notification handling.
 
-#### 📈 trading-bot
+#### 📈 [trading-bot](https://github.com/Danielh002/trading-bot)
 
 Algorithmic trading bot built in Python, leveraging data-driven strategies to identify market entry and exit signals.
 Designed for modular strategy definition, backtesting, and live trading integration.
