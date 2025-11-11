@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel Hernández
 
 **Senior Software Engineer | AWS Cloud Architect | Backend Developer**
-📍 Cali, Colombia | ✉️ [danielhernandez002@hotmail.com](mailto:danielhernandez002@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-a751b3164)
+📍 Cali, Colombia | ✉️ [danielhernandez002@hotmail.com](mailto:danielhernandez002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-a751b3164)
 
 ---
 
